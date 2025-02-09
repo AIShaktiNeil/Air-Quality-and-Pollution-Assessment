@@ -65,7 +65,7 @@ This repository contains a project report for assessing air quality and pollutio
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/air-quality-pollution-assessment.git
+   git clone https://github.com/AIShaktiNeil/Air-Quality-and-Pollution-Assessment/blob/main/Pollution_RF_Project.ipynb
    cd air-quality-pollution-assessment
    ```
 
