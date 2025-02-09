@@ -44,12 +44,13 @@ This repository contains a project report for assessing air quality and pollutio
   - **RandomForestClassifier**
   - **GradientBoostingClassifier**
   
-- **Validation Strategy:**  
+- **Validation Strategy:**
+  - Chose RandomForestClassifier for giving high accuracy
   - Implemented **KFold cross-validation** to ensure robust model performance across different subsets of data.
   - Calculated cross-validation scores to compare model performance.
   
 - **Hyperparameter Tuning:**  
-  - Tuned hyperparameters for the GradientBoostingClassifier to optimize model accuracy.
+  - Tuned hyperparameters for the RandomForestClassifier to optimize model accuracy.
   
 - **Performance:**  
   - **Training Score:** 96%
